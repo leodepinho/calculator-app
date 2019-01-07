@@ -146,7 +146,7 @@ const styles = StyleSheet.create({
     color: 'black'
   },
   calculationText: {
-    fontSize: 30,
+    fontSize: 24,
     color: 'black'
   },
   row: {
